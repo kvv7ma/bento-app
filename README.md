@@ -1,5 +1,5 @@
 # bento-app
-振徳高校の翔太くん－お弁当注文Webアプリ
+振徳高校のm－お弁当注文Webアプリ
 
 ## .env
 MYSQL_HOST=db
